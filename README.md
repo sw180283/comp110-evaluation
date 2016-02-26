@@ -18,3 +18,9 @@ Relevant - Each of these subjects are ongoing projects that require frequent git
 Time-bound - Next week, I'll check to see if I have uploaded 1 think for each of these projects  
 
 ##Week 3
+For this week we have been working more on understind OOP, in particular, towards our group project games. In addition to this, we have been incorporating agile and scrum work flow into our agile essay proposal and group project. I have written my proposal for my essay and should aim to improve upon the issues I discusses in my previous evaluation. In particular, I should aim to improve my academic structure and focus for my essay. I have struggled understanding the live coding sessions involving OOP and often got lost in the thought process of why and how things were done. My confidence is preventing me from asking questions which only furthers the issue.  
+Specific - Review the OOP live coding sections and make a object class for player  
+Measurable - The player class works in the same way as coin and spike  
+Achievable - The basic code is on github and should be able to duplicate a similar result  
+Relevant - This would be used in my group project for object classes  
+Time-bound - Next week, if I can't complete this task, I should approach my lecturer    
