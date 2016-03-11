@@ -24,3 +24,11 @@ Measurable - The player class works in the same way as coin and spike
 Achievable - The basic code is on github and should be able to duplicate a similar result  
 Relevant - This would be used in my group project for object classes  
 Time-bound - Next week, if I can't complete this task, I should approach my lecturer    
+
+##Week 4
+For this week, we have been on our hardware project where I discussed with my lecturer how to make my circuitry more tidy. This was an issue as the inability to solder and fix the wires to the makeymakey board meant that the stability of my controller was low. I should attempt to make my container for the board and wiring more transportable with the construction of the container top priority. Also, this week we have been working on our group projects and have made implementations for sprite and platform rendering as well as character movement. I struggled with the comp 110 worksheet 5 A* pathfinding, which I approach Ed about. For next week, I should attempt the worksheet and submit a pull request with an errors and issues.
+Specific - Attempt A* pathfinding worksheet  
+Measurable - Implement a working A* pathfinding  
+Achievable - The pseudocode has been given as well as additional aupport, so an attempt is achieveable  
+Relevant - This is for worksheet 5 and useful for our comp 150 group project  
+Time-bound - Next week, if I can't complete this task, I should approach my lecturer and submit a pull request  
