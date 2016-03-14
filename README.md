@@ -33,7 +33,7 @@ Relevant - This is for worksheet 5 and useful for our comp 150 group project
 Time-bound - Next week, if I can't complete this task, I should approach my lecturer and submit a pull request  
 
 ##Week 5
-This week, we were able to discussion our issues with the A* pathfinding as a class, where we were given additional support work this worksheet. I struggled with shared pointed and so this workshop improved my knowledge so that I can attempt to worksheet again. Another task we took part in class was a heuristic review of our peers controllers which also provided feedback for final prototyping. The controller deadline is my priority, so I should set my SMART action to this task.
+This week, we were able to discussion our issues with the A* pathfinding as a class, where we were given additional support work this worksheet. I struggled with shared pointed and so this workshop improved my knowledge so that I can attempt to worksheet again. Another task we took part in class was a heuristic review of our peers controllers which also provided feedback for final prototyping. The controller deadline is my priority, so I should set my SMART action to this task.  
 Specific - Make final prototype controller  
 Measurable - Have a functional controller  
 Achievable - The previous prototypes, materials avaliable and feedback provided is enough to make a final prototype  
