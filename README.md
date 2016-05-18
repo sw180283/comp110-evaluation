@@ -81,3 +81,41 @@ Relevant - This is relevant for my API hacking project
 Time-bound - Do this by the end of the week  
 
 ##Week 23
+After returning from the Easter holidays, I worked more with my group project to compare our individual projects and also prepare our next sprint review. With the majority of our game working, we focused on our individual components and continued pair programming to improve the main branch. I discussed with my group about how we could improve our group practise by using branches more on Github, which would improve our communication. Also, my number of commits could be improved.  
+Specific - Make a more use of Github branches and pull requests    
+Measurable - Have at least 1 pull request on Github per week  
+Achievable - This should be achievable      
+Relevant - This is relevant for my group project  
+Time-bound - Do this by the end of the week  
+
+##Week 24
+While working on my group project, I also need to work on my agile practise essay, which focuses on the question of pair programming. My group project practises have improved my ability to write this essay, as we have regularly used pair programming in our programming sessions. I still need to find research papers which are specific to games and should make this the focus for my research.  
+Specific - Research more academic papers for pair programming in the games industry    
+Measurable - Have at least 2 papers specific to games by the end of the week  
+Achievable - This should be achievable      
+Relevant - This is relevant for my agile essay  
+Time-bound - Do this by the end of the week  
+
+##Week 25
+Another essay due is my teamwork review, which focuses on my individual issues found when working in a team. This should improve my teamwork skills by feeding forward this review for my group project. To improve my academic writing style for this essay, I should make a draft of my essay and work through the marking scheme to make sure that I have improved this weakness.  
+Specific - Use the marking rubric as a marking checklist for academic writing    
+Measurable - Have a draft of my teamwork review by the end of the week  
+Achievable - This should be achievable      
+Relevant - This is relevant for my teamwork review  
+Time-bound - Do this by the end of the week  
+
+##Week 26
+We have been working on finishing our worksheets, and I have struggled finding a way to tackle worksheet 7 as I still struggle with UML diagrams. I should approach my lecturer to help with this issue.  
+Specific - Ask lecturer for help concerning worksheet 7    
+Measurable - Ask lecturer for help by the end of the week  
+Achievable - This should be achievable      
+Relevant - This is relevant for my worksheet 7  
+Time-bound - Do this by the end of the week  
+
+##Week 27
+We have been working on our individual comp110 coding task 2 for our group project and I have been struggling to implement a functional jump mechanic. I should submit a pull request for my lecturer to help remove the errors.  
+Specific - Submit a pull request for my lecturer for my jump mechanic    
+Measurable - Submit a pull request by the end of the week  
+Achievable - This should be achievable      
+Relevant - This is relevant for my comp110 coding task 2  
+Time-bound - Do this by the end of the week 
