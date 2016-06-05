@@ -119,3 +119,11 @@ Measurable - Submit a pull request by the end of the week
 Achievable - This should be achievable      
 Relevant - This is relevant for my comp110 coding task 2  
 Time-bound - Do this by the end of the week 
+
+##Week 28
+We have been writing our semester 2 reviews and been conducting peer reviews. This was a challenging essay as reflection is difficult as well as constructive self-critism.
+Specific - Write a draft using the peer reviews for my essay    
+Measurable - Hace a new draft which improves upon the comments from the peer review  
+Achievable - This should be achievable      
+Relevant - This is relevant for my comp110 evaluation  
+Time-bound - Do this by the end of the week 
